@@ -1,5 +1,5 @@
 {
-.appVersion = "1285";
+.appVersion = "1280";
 classes = (
 {
 automatic = 1;
@@ -56,7 +56,7 @@ name = "Variable Font Family Name";
 value = MuseoModerno;
 }
 );
-date = "2020-01-22 23:15:15 +0000";
+date = "2019-12-21 22:58:31 +0000";
 designer = "Pablo Cosgaya, Héctor Gatti, Marcela Romero, and the Authors of The MuseoModerno Project.";
 designerURL = "https://www.omnibus-type.com";
 familyName = MuseoModerno;
@@ -222267,15 +222267,15 @@ value = MuseoModerno;
 },
 {
 name = compatibleFullName;
-value = "MuseoModerno SemiBold";
+value = "MuseoModerno DemiBold";
 },
 {
 name = postscriptFullName;
-value = "MuseoModerno SemiBold";
+value = "MuseoModerno DemiBold";
 },
 {
 name = postscriptFontName;
-value = "MuseoModerno-SemiBold";
+value = "MuseoModerno-DemiBold";
 },
 {
 name = preferredFamilyName;
@@ -222283,15 +222283,15 @@ value = MuseoModerno;
 },
 {
 name = preferredSubfamilyName;
-value = SemiBold;
+value = DemiBold;
 }
 );
 interpolationWeight = 600;
 instanceInterpolations = {
 "41AFA816-2F69-4745-BF67-F6DEA15443A0" = 1;
 };
-name = Semibold;
-weightClass = SemiBold;
+name = Demibold;
+weightClass = DemiBold;
 },
 {
 customParameters = (

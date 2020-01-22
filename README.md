@@ -16,7 +16,7 @@ MuseoModerno: a contemporary geometric typeface for the new Identity of the Muse
 * Light
 * Regular
 * Medium
-* DemiBold
+* SemiBold
 * Bold
 * ExtraBold
 * Black
