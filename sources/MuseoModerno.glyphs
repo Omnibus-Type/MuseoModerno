@@ -1215,19 +1215,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 779;
+value = 1145;
 },
 {
 name = winDescent;
-value = 239;
+value = 445;
 },
 {
 name = hheaAscender;
-value = 779;
+value = 1145;
 },
 {
 name = hheaDescender;
-value = -239;
+value = -445;
 },
 {
 name = hheaLineGap;
