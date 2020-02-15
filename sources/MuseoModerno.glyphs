@@ -1,5 +1,5 @@
 {
-.appVersion = "1285";
+.appVersion = "1290";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2019 The MuseoModerno Project Authors (https://github.com/Omnibus-Type/MuseoModerno)";
+copyright = "Copyright 2020 The MuseoModerno Project Authors (https://github.com/Omnibus-Type/MuseoModerno)";
 customParameters = (
 {
 name = vendorID;
@@ -54,9 +54,13 @@ value = MuseoModerno;
 {
 name = "Variable Font Family Name";
 value = MuseoModerno;
+},
+{
+name = "Variable Font Origin";
+value = "5dd0c03f-0ac1-43be-b978-266741ffc02a";
 }
 );
-date = "2020-01-22 23:15:15 +0000";
+date = "2020-02-15 15:37:53 +0000";
 designer = "Pablo Cosgaya, Héctor Gatti, Marcela Romero, and the Authors of The MuseoModerno Project.";
 designerURL = "https://www.omnibus-type.com";
 familyName = MuseoModerno;
@@ -1038,23 +1042,35 @@ custom = Thin;
 customParameters = (
 {
 name = typoAscender;
-value = 770;
+value = 1145;
 },
 {
 name = typoDescender;
-value = -230;
+value = -445;
 },
 {
 name = typoLineGap;
-value = 9;
+value = 0;
 },
 {
 name = winAscent;
-value = 779;
+value = 1145;
 },
 {
 name = winDescent;
-value = 239;
+value = 445;
+},
+{
+name = hheaAscender;
+value = 1145;
+},
+{
+name = hheaDescender;
+value = -445;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlineThickness;
@@ -1187,15 +1203,15 @@ custom = Demibold;
 customParameters = (
 {
 name = typoAscender;
-value = 770;
+value = 1145;
 },
 {
 name = typoDescender;
-value = -230;
+value = -445;
 },
 {
 name = typoLineGap;
-value = 9;
+value = 0;
 },
 {
 name = winAscent;
@@ -1204,6 +1220,18 @@ value = 779;
 {
 name = winDescent;
 value = 239;
+},
+{
+name = hheaAscender;
+value = 779;
+},
+{
+name = hheaDescender;
+value = -239;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlineThickness;
@@ -1340,23 +1368,35 @@ custom = Black;
 customParameters = (
 {
 name = typoAscender;
-value = 770;
+value = 1145;
 },
 {
 name = typoDescender;
-value = -230;
+value = -445;
 },
 {
 name = typoLineGap;
-value = 9;
+value = 0;
 },
 {
 name = winAscent;
-value = 779;
+value = 1145;
 },
 {
 name = winDescent;
-value = 239;
+value = 445;
+},
+{
+name = hheaAscender;
+value = 1145;
+},
+{
+name = hheaDescender;
+value = -445;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlineThickness;
