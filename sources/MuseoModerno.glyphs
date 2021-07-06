@@ -1,5 +1,5 @@
 {
-.appVersion = "1330";
+.appVersion = "1349";
 DisplayStrings = (
 $,
 "/exclamdbl HH"
@@ -11,7 +11,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2020 The MuseoModerno Project Authors (https://github.com/Omnibus-Type/MuseoModerno)";
+copyright = "Copyright 2020 The Museo Moderno Project Authors (https://github.com/Omnibus-Type/MuseoModerno)";
 customParameters = (
 {
 name = vendorID;
@@ -41,45 +41,12 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-},
-{
-name = "Variable Font File Name";
-value = "MuseoModerno[wght]";
-},
-{
-name = "Variable Font Family Name";
-value = MuseoModerno;
-},
-{
-name = "Variable Font Origin";
-value = "41AFA816-2F69-4745-BF67-F6DEA15443A0";
-},
-{
-name = "Family Alignment Zones";
-value = (
-"{730, 13}",
-"{700, 13}",
-"{557, 13}",
-"{510, 13}",
-"{0, -13}",
-"{-48, -13}",
-"{-203, -13}"
-);
 }
 );
 date = "2020-05-16 15:23:03 +0000";
 designer = "Pablo Cosgaya, Héctor Gatti, Marcela Romero, and the Authors of The MuseoModerno Project.";
 designerURL = "https://www.omnibus-type.com";
-familyName = MuseoModerno;
+familyName = "Museo Moderno";
 featurePrefixes = (
 {
 automatic = 1;
@@ -1139,46 +1106,6 @@ value = 650;
 {
 name = "Master Icon Glyph Name";
 value = a;
-},
-{
-name = TTFZones;
-value = (
-{
-name = "zone 0";
-position = 730;
-size = 13;
-},
-{
-name = capHeight;
-position = 700;
-size = 13;
-},
-{
-name = "zone 2";
-position = 557;
-size = 13;
-},
-{
-name = xHeight;
-position = 510;
-size = 13;
-},
-{
-name = baseline;
-position = 0;
-size = -13;
-},
-{
-name = "zone 5";
-position = -48;
-size = -13;
-},
-{
-name = "zone 6";
-position = -203;
-size = -13;
-}
-);
 }
 );
 descender = -230;
@@ -1339,46 +1266,6 @@ value = 650;
 {
 name = "Master Icon Glyph Name";
 value = a;
-},
-{
-name = TTFZones;
-value = (
-{
-name = "zone 0";
-position = 730;
-size = 13;
-},
-{
-name = capHeight;
-position = 700;
-size = 13;
-},
-{
-name = "zone 2";
-position = 557;
-size = 13;
-},
-{
-name = xHeight;
-position = 510;
-size = 13;
-},
-{
-name = baseline;
-position = 0;
-size = -13;
-},
-{
-name = "zone 5";
-position = -48;
-size = -13;
-},
-{
-name = "zone 6";
-position = -203;
-size = -13;
-}
-);
 }
 );
 descender = -230;
@@ -1544,46 +1431,6 @@ value = 650;
 {
 name = "Master Icon Glyph Name";
 value = a;
-},
-{
-name = TTFZones;
-value = (
-{
-name = "zone 0";
-position = 730;
-size = 13;
-},
-{
-name = capHeight;
-position = 700;
-size = 13;
-},
-{
-name = "zone 2";
-position = 557;
-size = 13;
-},
-{
-name = xHeight;
-position = 518;
-size = 13;
-},
-{
-name = baseline;
-position = 0;
-size = -13;
-},
-{
-name = "zone 5";
-position = -48;
-size = -13;
-},
-{
-name = "zone 6";
-position = -203;
-size = -13;
-}
-);
 }
 );
 descender = -230;
@@ -14065,7 +13912,7 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{-54.5, 5.25}";
+place = "{-54.5, 21}";
 target = up;
 type = BottomGhost;
 },
@@ -54813,7 +54660,7 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{-54.5, 5.25}";
+place = "{-54.5, 21}";
 target = up;
 type = BottomGhost;
 },
@@ -90561,13 +90408,13 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, 15.75}";
+place = "{0, 21}";
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = "{547.5, -15}";
+place = "{547.5, -20}";
 target = down;
 type = TopGhost;
 },
@@ -90577,13 +90424,13 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{-284.25, 15.75}";
+place = "{-284.25, 21}";
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = "{-36, -15}";
+place = "{-36, -20}";
 target = down;
 type = TopGhost;
 },
@@ -90602,13 +90449,13 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, 15.75}";
+place = "{0, 21}";
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = "{547.5, -15}";
+place = "{547.5, -20}";
 target = down;
 type = TopGhost;
 }
@@ -104709,7 +104556,7 @@ type = BottomGhost;
 },
 {
 horizontal = 1;
-place = "{131.596, -5}";
+place = "{131.596, -20}";
 target = down;
 type = TopGhost;
 }
@@ -149736,7 +149583,7 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, 5.25}";
+place = "{0, 21}";
 target = up;
 type = BottomGhost;
 }
@@ -167657,13 +167504,13 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{-183.75, 15.75}";
+place = "{-183.75, 21}";
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = "{341.25, -15}";
+place = "{341.25, -20}";
 target = down;
 type = TopGhost;
 },
@@ -168322,13 +168169,13 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, 0}";
+place = "{0, 21}";
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = "{0, 0}";
+place = "{0, -20}";
 target = down;
 type = TopGhost;
 },
@@ -174501,7 +174348,7 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, -5}";
+place = "{0, -20}";
 target = down;
 type = TopGhost;
 },
@@ -185522,7 +185369,7 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{525, -15}";
+place = "{525, -20}";
 target = down;
 type = TopGhost;
 }
@@ -186215,13 +186062,13 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{-135, 15.75}";
+place = "{-135, 21}";
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = "{547.5, -15}";
+place = "{547.5, -20}";
 target = down;
 type = TopGhost;
 }
@@ -186838,13 +186685,13 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, 0}";
+place = "{0, 21}";
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = "{0, 0}";
+place = "{0, 21}";
 target = up;
 type = BottomGhost;
 },
@@ -186864,13 +186711,13 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, 0}";
+place = "{0, 21}";
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-place = "{0, 0}";
+place = "{0, 21}";
 target = up;
 type = BottomGhost;
 }
@@ -203163,12 +203010,6 @@ width = 600;
 );
 instances = (
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
 instanceInterpolations = {
 "5dd0c03f-0ac1-43be-b978-266741ffc02a" = 1;
 };
@@ -203176,12 +203017,6 @@ name = Thin;
 weightClass = Thin;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
 interpolationWeight = 200;
 instanceInterpolations = {
 "41AFA816-2F69-4745-BF67-F6DEA15443A0" = 0.2;
@@ -203191,12 +203026,6 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
 interpolationWeight = 300;
 instanceInterpolations = {
 "41AFA816-2F69-4745-BF67-F6DEA15443A0" = 0.4;
@@ -203206,12 +203035,6 @@ name = Light;
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
 interpolationWeight = 400;
 instanceInterpolations = {
 "41AFA816-2F69-4745-BF67-F6DEA15443A0" = 0.6;
@@ -203220,12 +203043,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
 interpolationWeight = 500;
 instanceInterpolations = {
 "41AFA816-2F69-4745-BF67-F6DEA15443A0" = 0.8;
@@ -203235,12 +203052,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
 interpolationWeight = 600;
 instanceInterpolations = {
 "41AFA816-2F69-4745-BF67-F6DEA15443A0" = 1;
@@ -203249,28 +203060,17 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
 interpolationWeight = 700;
 instanceInterpolations = {
 "32E5C913-0890-451E-8980-44FAA246AB8A" = 0.33333;
 "41AFA816-2F69-4745-BF67-F6DEA15443A0" = 0.66667;
 };
 isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
 interpolationWeight = 800;
 instanceInterpolations = {
 "32E5C913-0890-451E-8980-44FAA246AB8A" = 0.66667;
@@ -203280,12 +203080,6 @@ name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
-customParameters = (
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-}
-);
 interpolationWeight = 900;
 instanceInterpolations = {
 "32E5C913-0890-451E-8980-44FAA246AB8A" = 1;
@@ -204466,9 +204260,9 @@ space = -30;
 "@MMK_R_Y_2nd" = -30;
 };
 "@MMK_L_I_1st" = {
+"@MMK_R_J_2nd" = 30;
 "@MMK_R_T_2nd" = -75;
 "@MMK_R_dash_2nd" = -40;
-"@MMK_R_J_2nd" = 30;
 };
 "@MMK_L_K_1st" = {
 "@MMK_R_A_2nd" = -5;
@@ -204785,8 +204579,14 @@ at = {
 b = {
 v = -30;
 };
+cedi = {
+colonsign = 23;
+};
 cent = {
 one.ss01 = -40;
+};
+colonsign = {
+dollar = 30;
 };
 eight = {
 "@MMK_R_parent_2nd" = -30;
@@ -204853,6 +204653,9 @@ onehalf = {
 };
 onequarter = {
 "@MMK_R_parent_2nd" = -40;
+};
+p = {
+v = -20;
 };
 parenright = {
 "@MMK_R_quotes_2nd" = -30;
@@ -204982,15 +204785,6 @@ zero = 0;
 zero.ss01 = {
 "@MMK_R_parent_2nd" = -30;
 };
-cedi = {
-colonsign = 23;
-};
-colonsign = {
-dollar = 30;
-};
-p = {
-v = -20;
-};
 };
 };
 manufacturer = "Omnibus-Type Team";
@@ -205012,5 +204806,5 @@ tH = 117;
 LWPluginVersion = "1429";
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
