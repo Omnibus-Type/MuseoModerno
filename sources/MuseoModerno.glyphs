@@ -1,5 +1,5 @@
 {
-.appVersion = "1349";
+.appVersion = "1342";
 DisplayStrings = (
 $,
 "/exclamdbl HH"
@@ -1056,10 +1056,6 @@ name = hheaLineGap;
 value = 0;
 },
 {
-name = underlineThickness;
-value = 10;
-},
-{
 name = underlinePosition;
 value = -155;
 },
@@ -1106,6 +1102,10 @@ value = 650;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = underlineThickness;
+value = 80;
 }
 );
 descender = -230;
@@ -1381,10 +1381,6 @@ name = hheaLineGap;
 value = 0;
 },
 {
-name = underlineThickness;
-value = 110;
-},
-{
 name = underlinePosition;
 value = -155;
 },
@@ -1431,6 +1427,10 @@ value = 650;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = underlineThickness;
+value = 80;
 }
 );
 descender = -230;
