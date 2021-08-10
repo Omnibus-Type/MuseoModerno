@@ -2,7 +2,7 @@ sources:
   - MuseoModerno.glyphs
 axisOrder:
   - wght
-familyName: Museo Moderno
+familyName: MuseoModerno
 stat:
   MuseoModerno[wght].ttf:
   - name: Weight
