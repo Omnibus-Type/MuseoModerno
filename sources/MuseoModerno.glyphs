@@ -1,9 +1,5 @@
 {
-.appVersion = "1342";
-DisplayStrings = (
-$,
-"/exclamdbl HH"
-);
+.appVersion = "1349";
 classes = (
 {
 automatic = 1;
@@ -11,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2020 The Museo Moderno Project Authors (https://github.com/Omnibus-Type/MuseoModerno)";
+copyright = "Copyright 2020 The MuseoModerno Project Authors (https://github.com/Omnibus-Type/MuseoModerno)";
 customParameters = (
 {
 name = vendorID;
@@ -46,7 +42,7 @@ value = 1;
 date = "2020-05-16 15:23:03 +0000";
 designer = "Pablo Cosgaya, Héctor Gatti, Marcela Romero, and the Authors of The MuseoModerno Project.";
 designerURL = "https://www.omnibus-type.com";
-familyName = "Museo Moderno";
+familyName = MuseoModerno;
 featurePrefixes = (
 {
 automatic = 1;
@@ -125269,7 +125265,7 @@ name = idotless.ss01;
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, 25, -56}";
+transform = "{0.9999, 0, 0, 1, 25, -56}";
 }
 );
 hints = (
@@ -127262,11 +127258,12 @@ components = (
 {
 alignment = -1;
 name = i.ss01;
+transform = "{1, 0, 0, 1, 12, 0}";
 },
 {
 alignment = -1;
 name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, -14, 0}";
+transform = "{1, 0, 0, 1, 0, 30}";
 }
 );
 hints = (
@@ -185969,11 +185966,11 @@ transform = "{1, 0, 0, 1, -37, 0}";
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, 119, -685}";
+transform = "{0.9999, 0, 0, 1, 119, -685}";
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, -37, -23}";
+transform = "{0.9999, 0, 0, 1, -37, -23}";
 }
 );
 layerId = "5dd0c03f-0ac1-43be-b978-266741ffc02a";
@@ -187573,7 +187570,7 @@ transform = "{1, 0, 0, 1, 0, 56}";
 {
 alignment = -1;
 name = minus;
-transform = "{1, 0, 0, 1, 0, -289}";
+transform = "{0.9999, 0, 0, 1, 0, -289}";
 }
 );
 hints = (
@@ -187601,7 +187598,7 @@ transform = "{1, 0, 0, 1, 0, 64}";
 {
 alignment = -1;
 name = minus;
-transform = "{1, 0, 0, 1, 0, -289}";
+transform = "{0.9999, 0, 0, 1, 0, -289}";
 }
 );
 hints = (
@@ -198686,11 +198683,11 @@ nodes = (
 components = (
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, 181, 160}";
+transform = "{0.9999, 0, 0, 1, 181, 160}";
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, 28, 160}";
+transform = "{0.9999, 0, 0, 1, 28, 160}";
 }
 );
 hints = (
