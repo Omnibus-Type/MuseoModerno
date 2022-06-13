@@ -5,21 +5,22 @@
 
 MuseoModerno: a contemporary geometric typeface for the new Identity of the Museum of Modern Art of Buenos Aires (Museo Moderno, AR). Designed by Marcela Romero, Héctor Gatti, Pablo Cosgaya & Omnibus-Type Team.
 
-![Sample of MuseoModerno Family.](ModernoSpecimen-01.png "MuseoModerno")
-![Sample of MuseoModerno Family.](ModernoSpecimen-02.png "MuseoModerno")
+![Sample of MuseoModerno Family.](MModernoSpecimen-01.png "MuseoModerno")
+![Sample of MuseoModerno Family.](MModernoSpecimen-02.png "MuseoModerno")
+![Sample of MuseoModerno Family.](MModernoSpecimen-03.png "MuseoModerno")
 
 
 #### MuseoModerno Family contains:
 
-* Thin
-* ExtraLight
-* Light
-* Regular
-* Medium
-* SemiBold
-* Bold
-* ExtraBold
-* Black
+* Thin / Thin Italic
+* ExtraLight / Extralight Italic
+* Light / Light Italic
+* Regular / Italic
+* Medium / Medium Italic
+* SemiBold / SemiBold Italic
+* Bold / Bold Italic
+* ExtraBold / ExtraBold Italic
+* Black / Black Italic
 
 To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/)
 
@@ -75,6 +76,10 @@ This information should be distributed along with the MuseoModerno fonts and any
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**2022 June 13 (v1.003) New fonts**
+
+- Added italics
 
 **2019 December 21 (v1.001) Initial Commit**
 
