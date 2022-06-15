@@ -2,11 +2,7 @@
 .appVersion = "3130";
 .formatVersion = 3;
 DisplayStrings = (
-"≥",
-"Large Handles:
-GǪǪVV/Aogonek.ss01/Aogonek.ss01/Aogonek.ss01/Eogonek.ss01/Eogonek.ss01/Oogonek.ss01/Oogonek.ss01 ąąąęįįį/aogonek.ss01/aogonek.ss01/aogonek.ss01/g.ss01/iogonek.ss01/iogonek.ss01/iogonek.ss01 ΔΔΔ69&&&℮℮/ampersand.ss01 ¥~√˜˜˜˛˛
-
-"
+"≥"
 );
 axes = (
 {
@@ -104,7 +100,7 @@ wght = {
 };
 }
 );
-date = "2022-06-02 18:25:45 +0000";
+date = "2022-06-15 14:12:48 +0000";
 familyName = MuseoModerno;
 featurePrefixes = (
 {
@@ -89864,10 +89860,6 @@ instanceInterpolations = {
 name = Thin;
 properties = (
 {
-key = postscriptFontName;
-value = "MuseoModerno-Thin";
-},
-{
 key = styleMapFamilyNames;
 values = (
 {
@@ -89875,10 +89867,6 @@ language = dflt;
 value = "MuseoModerno Thin";
 }
 );
-},
-{
-key = postscriptFullName;
-value = MuseoModernoThin;
 }
 );
 weightClass = 100;
@@ -89910,10 +89898,6 @@ instanceInterpolations = {
 name = ExtraLight;
 properties = (
 {
-key = postscriptFontName;
-value = "MuseoModerno-Extralight";
-},
-{
 key = styleMapFamilyNames;
 values = (
 {
@@ -89921,10 +89905,6 @@ language = dflt;
 value = "MuseoModerno ExtraLight";
 }
 );
-},
-{
-key = postscriptFullName;
-value = MuseoModernoExtraLight;
 }
 );
 weightClass = 200;
@@ -89956,10 +89936,6 @@ instanceInterpolations = {
 name = Light;
 properties = (
 {
-key = postscriptFontName;
-value = "MuseoModerno-Light";
-},
-{
 key = styleMapFamilyNames;
 values = (
 {
@@ -89967,10 +89943,6 @@ language = dflt;
 value = "MuseoModerno Light";
 }
 );
-},
-{
-key = postscriptFullName;
-value = MuseoModernoLight;
 }
 );
 weightClass = 300;
@@ -90002,10 +89974,6 @@ instanceInterpolations = {
 name = Regular;
 properties = (
 {
-key = postscriptFontName;
-value = "MuseoModerno-Regular";
-},
-{
 key = styleMapFamilyNames;
 values = (
 {
@@ -90013,10 +89981,6 @@ language = dflt;
 value = "MuseoModerno Regular";
 }
 );
-},
-{
-key = postscriptFullName;
-value = MuseoModernoRegular;
 }
 );
 },
@@ -90047,10 +90011,6 @@ instanceInterpolations = {
 name = Medium;
 properties = (
 {
-key = postscriptFontName;
-value = "MuseoModerno-Medium";
-},
-{
 key = styleMapFamilyNames;
 values = (
 {
@@ -90058,10 +90018,6 @@ language = dflt;
 value = "MuseoModerno Medium";
 }
 );
-},
-{
-key = postscriptFullName;
-value = MuseoModernoMedium;
 }
 );
 weightClass = 500;
@@ -90092,10 +90048,6 @@ instanceInterpolations = {
 name = SemiBold;
 properties = (
 {
-key = postscriptFontName;
-value = "MuseoModerno-SemiBold";
-},
-{
 key = styleMapFamilyNames;
 values = (
 {
@@ -90103,10 +90055,6 @@ language = dflt;
 value = "MuseoModerno SemiBold";
 }
 );
-},
-{
-key = postscriptFullName;
-value = MuseoModernoSemiBold;
 }
 );
 weightClass = 600;
@@ -90140,10 +90088,6 @@ linkStyle = Regular;
 name = Bold;
 properties = (
 {
-key = postscriptFontName;
-value = "MuseoModerno-Bold";
-},
-{
 key = styleMapFamilyNames;
 values = (
 {
@@ -90151,10 +90095,6 @@ language = dflt;
 value = "MuseoModerno Bold";
 }
 );
-},
-{
-key = postscriptFullName;
-value = MuseoModernoBold;
 }
 );
 weightClass = 700;
@@ -90186,10 +90126,6 @@ instanceInterpolations = {
 name = ExtraBold;
 properties = (
 {
-key = postscriptFontName;
-value = "MuseoModerno-ExtraBold";
-},
-{
 key = styleMapFamilyNames;
 values = (
 {
@@ -90197,10 +90133,6 @@ language = dflt;
 value = "MuseoModerno ExtraBold";
 }
 );
-},
-{
-key = postscriptFullName;
-value = MuseoModernoExtraBold;
 }
 );
 weightClass = 800;
@@ -90231,10 +90163,6 @@ instanceInterpolations = {
 name = Black;
 properties = (
 {
-key = postscriptFontName;
-value = "MuseoModerno-Black";
-},
-{
 key = styleMapFamilyNames;
 values = (
 {
@@ -90242,10 +90170,6 @@ language = dflt;
 value = "MuseoModerno Black";
 }
 );
-},
-{
-key = postscriptFullName;
-value = MuseoModernoBlack;
 }
 );
 weightClass = 900;
@@ -90302,6 +90226,7 @@ space = -30;
 "@MMK_L_I_1st" = {
 "@MMK_R_T_2nd" = -75;
 "@MMK_R_dash_2nd" = -40;
+"@MMK_R_J_2nd" = 0;
 };
 "@MMK_L_K_1st" = {
 "@MMK_R_A_2nd" = -50;
@@ -90862,6 +90787,7 @@ space = -30;
 "@MMK_L_I_1st" = {
 "@MMK_R_T_2nd" = -75;
 "@MMK_R_dash_2nd" = -40;
+"@MMK_R_J_2nd" = 0;
 };
 "@MMK_L_K_1st" = {
 "@MMK_R_A_2nd" = -5;

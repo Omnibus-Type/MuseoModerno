@@ -1,6 +1,9 @@
 {
 .appVersion = "3130";
 .formatVersion = 3;
+DisplayStrings = (
+"ïïĩĩĩ"
+);
 axes = (
 {
 name = Weight;
@@ -92,7 +95,7 @@ wght = {
 };
 }
 );
-date = "2022-06-03 16:13:55 +0000";
+date = "2022-06-15 14:12:39 +0000";
 familyName = MuseoModerno;
 featurePrefixes = (
 {
@@ -119202,14 +119205,6 @@ language = dflt;
 value = "MuseoModerno Thin Italic";
 }
 );
-},
-{
-key = postscriptFontName;
-value = "MuseoModerno-Thin-Italic";
-},
-{
-key = postscriptFullName;
-value = MuseoModernoThinItalic;
 }
 );
 weightClass = 100;
@@ -119250,14 +119245,6 @@ language = dflt;
 value = "MuseoModerno ExtraLight Italic";
 }
 );
-},
-{
-key = postscriptFontName;
-value = "MuseoModerno-ExtraLight-Italic";
-},
-{
-key = postscriptFullName;
-value = MuseoModernoExtraLightItalic;
 }
 );
 weightClass = 200;
@@ -119298,14 +119285,6 @@ language = dflt;
 value = "MuseoModerno Light Italic";
 }
 );
-},
-{
-key = postscriptFontName;
-value = "MuseoModerno-Light-Italic";
-},
-{
-key = postscriptFullName;
-value = MuseoModernoLightItalic;
 }
 );
 weightClass = 300;
@@ -119346,14 +119325,6 @@ language = dflt;
 value = "MuseoModerno Italic";
 }
 );
-},
-{
-key = postscriptFontName;
-value = "MuseoModerno-Italic";
-},
-{
-key = postscriptFullName;
-value = MuseoModernoItalic;
 }
 );
 },
@@ -119393,14 +119364,6 @@ language = dflt;
 value = "MuseoModerno Medium Italic";
 }
 );
-},
-{
-key = postscriptFontName;
-value = "MuseoModerno-Medium-Italic";
-},
-{
-key = postscriptFullName;
-value = MuseoModernoMediumItalic;
 }
 );
 weightClass = 500;
@@ -119440,14 +119403,6 @@ language = dflt;
 value = "MuseoModerno SemiBold Italic";
 }
 );
-},
-{
-key = postscriptFontName;
-value = "MuseoModerno-SemiBold-Italic";
-},
-{
-key = postscriptFullName;
-value = MuseoModernoSemiBoldItalic;
 }
 );
 weightClass = 600;
@@ -119489,14 +119444,6 @@ language = dflt;
 value = "MuseoModerno Bold Italic";
 }
 );
-},
-{
-key = postscriptFontName;
-value = "MuseoModerno-Bold-Italic";
-},
-{
-key = postscriptFullName;
-value = MuseoModernoBoldItalic;
 }
 );
 weightClass = 700;
@@ -119537,14 +119484,6 @@ language = dflt;
 value = "MuseoModerno ExtraBold Italic";
 }
 );
-},
-{
-key = postscriptFontName;
-value = "MuseoModerno-ExtraBold-Italic";
-},
-{
-key = postscriptFullName;
-value = MuseoModernoExtraBoldItalic;
 }
 );
 weightClass = 800;
@@ -119584,14 +119523,6 @@ language = dflt;
 value = "MuseoModerno Black Italic";
 }
 );
-},
-{
-key = postscriptFullName;
-value = MuseoModernoBlackItalic;
-},
-{
-key = postscriptFontName;
-value = "MuseoModerno-Black-Italic";
 }
 );
 weightClass = 900;
@@ -119648,6 +119579,7 @@ space = -30;
 "@MMK_L_I_1st" = {
 "@MMK_R_T_2nd" = -75;
 "@MMK_R_dash_2nd" = -40;
+"@MMK_R_J_2nd" = 0;
 };
 "@MMK_L_K_1st" = {
 "@MMK_R_A_2nd" = -50;
@@ -119662,6 +119594,7 @@ space = -30;
 };
 "@MMK_L_O.alt1_1st" = {
 "@MMK_R_T_2nd" = 10;
+"@MMK_R_I_2nd" = 0;
 };
 "@MMK_L_O_1st" = {
 "@MMK_R_A_2nd" = -30;
@@ -119833,6 +119766,7 @@ v = -30;
 "@MMK_R_quotes_2nd" = -50;
 "@MMK_R_t_2nd" = -20;
 v = -30;
+"@MMK_R_j.ss01" = 0;
 };
 "@MMK_L_parent_1st" = {
 "@MMK_R_A_2nd" = -70;
@@ -120213,6 +120147,7 @@ space = -30;
 "@MMK_L_I_1st" = {
 "@MMK_R_T_2nd" = -75;
 "@MMK_R_dash_2nd" = -40;
+"@MMK_R_J_2nd" = 0;
 };
 "@MMK_L_K_1st" = {
 "@MMK_R_A_2nd" = -5;
