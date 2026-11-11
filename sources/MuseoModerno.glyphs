@@ -24,11 +24,6 @@ value = (
 );
 },
 {
-name = fsType;
-value = (
-);
-},
-{
 name = "Use Typo Metrics";
 value = 1;
 },
